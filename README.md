@@ -1,7 +1,7 @@
 # UAS Pemrograman Web 2 — Aplikasi Data Alumni
 
-**Nama  :** Budi Santoso
-**NIM   :** 2021100
+**Nama  : Muhammad Abi
+**NIM   : 251011700710
 **Kategori (digit terakhir NIM = 0):** Data Alumni
 **Project:** uas_2021100_data_alumni
 
