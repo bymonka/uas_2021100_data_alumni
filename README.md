@@ -110,3 +110,4 @@ uas_2021100_data_alumni/
 - Seluruh akses ke database menggunakan **PDO prepared statements** untuk
   mencegah SQL Injection.
 "# uas_2021100_data_alumni" 
+"# uas_2021100_data_alumni" 
