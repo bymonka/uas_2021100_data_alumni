@@ -66,9 +66,6 @@ if (isset($_GET['registered'])) {
                 <div class="auth-foot">
                     Belum punya akun? <a href="register.php">Registrasi</a>
                 </div>
-                <div class="auth-foot" style="margin-top:6px;color:#999;">
-                    Demo: budisantoso / admin123
-                </div>
             </div>
         </div>
     </div>
